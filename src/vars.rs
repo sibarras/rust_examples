@@ -12,6 +12,6 @@ pub fn run() {
     println!("ID: {}", ID);
 
     // Assingn Multiple Variables
-    let (my_name, my_age) = ("Brad", 37);
+    let ( my_name, my_age ) = ("Brad", 37);
     println!("{} is {}", my_name, my_age);
 }
